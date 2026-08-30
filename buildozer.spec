@@ -2,7 +2,7 @@
 [app]
 title = Kefla IA
 package.name = keflaia
-version = 0.1
+version = 0.2
 package.domain = org.kefla
 source.dir = .
 source.include_exts = py,png,jpg,jpeg
