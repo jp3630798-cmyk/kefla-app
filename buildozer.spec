@@ -17,3 +17,5 @@ android.minapi = 21
 
 [buildozer]
 log_level = 2
+# (str) Android build tools version to use
+android.build_tools_version = 31.0.0
