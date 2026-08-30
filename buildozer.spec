@@ -12,6 +12,7 @@ android.permissions = INTERNET,RECORD_AUDIO
 icon.filename = logo.png
 android.api = 31
 android.sdk = 31
+android.ndk = 25b
 android.minapi = 21
 
 [buildozer]
