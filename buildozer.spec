@@ -14,6 +14,7 @@ android.api = 33
 android.sdk = 33
 android.ndk = 25b
 android.minapi = 21
+bootstrap = SDL2
 
 [buildozer]
 log_level = 2
